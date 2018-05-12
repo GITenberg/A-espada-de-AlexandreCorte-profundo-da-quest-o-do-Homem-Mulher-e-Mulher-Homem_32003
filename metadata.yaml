@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32003#A-espada-de-AlexandreCorte-profundo-da-quest-o-do-Homem-Mulher-e-Mulher-Homem
 gutenberg_issued: '2010-04-15'
 gutenberg_type: Text
 identifiers:
